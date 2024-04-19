@@ -1,0 +1,66 @@
+
+input{
+  width: 100%;
+  border: 2px solid rgb(18,174,137);
+  border-radius: 5px;
+}
+.btncol{
+  display: flex;
+  justify-content: center !important;
+}
+select{
+  background-color: rgb(254,127,131);
+  color: white;
+}
+.container-fluid
+{
+  color: rgb(43,146,125);
+}
+.All{
+  background-color: rgb(254,127,131);
+}
+.Completed{
+  background-color: green;
+}
+.Pending{
+  background-color: orange;
+}
+.card{
+  background-color: rgb(204,245,211);
+}
+.Edit{
+  border: none;
+  width: 100%;
+ background-color: rgb(20,173,136); 
+}
+.save{
+  border: none;
+  width: 100%;
+ background-color: rgb(20,173,136); 
+}
+.Delete{
+  border: none;
+  width: 100%;
+  background-color: rgb(208,95,29);
+}
+@media screen and (max-width: 767px) {
+  .btn1{
+    margin-top: 20px;
+    width: 50%;
+  }
+  input{
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width:334px) {
+  h5{
+    font-size: 0.6rem;
+    font-weight: bolder;
+  }
+  select{
+    font-size: 0.7rem;
+    width: 4rem;
+  }
+  
+}
