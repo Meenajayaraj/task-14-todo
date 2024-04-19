@@ -1,4 +1,4 @@
-# React Todo Wed 
+# React Todo Web task
 
 This is a simple Todo web application built with React. It allows users to add, edit, delete, and filter todo items.
 
