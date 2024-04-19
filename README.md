@@ -1,13 +1,7 @@
-# React Todo Web App [Todo](https://grptodo.netlify.app/)
+# React Todo Wed 
 
 This is a simple Todo web application built with React. It allows users to add, edit, delete, and filter todo items.
 
-## Features
-
-- **Add Todo**: Users can add new todo items using the input field provided.
-- **Edit Todo**: Existing todo items can be edited inline.
-- **Delete Todo**: Users can delete todo items individually.
-- **Filter Todos**: Todos can be filtered based on their completion status (All, Active, Completed).
 
 ## Technologies Used
 
@@ -16,8 +10,9 @@ This is a simple Todo web application built with React. It allows users to add, 
 - **Bootstrap**: Bootstrap is used for styling and layout components.
 - **JavaScript**: Logic for todo management and interaction is implemented in JavaScript.
 
-## Usage
+###
+## Output for the task
 
-1. Clone the repository:
 
+###
 
