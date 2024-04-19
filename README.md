@@ -13,6 +13,9 @@ This is a simple Todo web application built with React. It allows users to add, 
 ###
 ## Output for the task
 
+![image_2024-04-19_135808996](https://github.com/Meenajayaraj/task-14-todo/assets/154115927/5b071dd1-208b-4587-af10-4472d2cfecdd)
 
 ###
+
+CLick the [Netlify](https://todotask-14.netlify.app/) for deployed url
 
